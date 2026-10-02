@@ -6,7 +6,7 @@
 
 
 
-To strengthen my programming, Data Structures and Algorithms, and software development skills during my B.Tech degree and secure a technical internship.
+To strengthen my programming, Data Structures and Algorithms, and software development skills and secure a technical internship.
 
 
 
